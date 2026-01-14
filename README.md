@@ -183,7 +183,7 @@ This model should be used responsibly and ethically:
 
 ## 🔒 License
 
-Please refer to the individual licenses of the datasets and base models used in this project.
+The work is licensed under the [Apache2.0 LICENSE](LICENSE).
 
 ## 📧 Contact
 
